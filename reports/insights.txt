@@ -1,0 +1,13 @@
+ZOMATO DATA ANALYSIS REPORT
+
+1. Dining restaurants are the most common category.
+
+2. Dining restaurants receive the highest number of votes.
+
+3. Most restaurants are rated between 3.5 and 4.0.
+
+4. Online-order restaurants generally receive better ratings.
+
+5. Most couples prefer restaurants costing around ₹300.
+
+6. Cafes have stronger online ordering adoption than dining restaurants.
